@@ -370,7 +370,7 @@ please preview your site before committing, and make sure to run
   To participate in a
   {% if site.carpentry == "swc" %}
   Software Carpentry
-  {% elsif site.carpentry == "dc" %}
+  {% elsif site.carpentry == "pilot" %}
   Data Carpentry
   {% elsif site.carpentry == "lc" %}
   Library Carpentry
