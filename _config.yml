@@ -56,10 +56,10 @@ title: "Introduction to Single Cell RNA-seq Analysis"
 pilot_lesson_site: "https://carpentries-incubator.github.io/scrna-seq-analysis/"
 #
 # For a lesson pilot, uncomment the line below and add the URL of your pre-workshop survey
-pilot_pre_survey: "put the URL of your pre-workshop survey here"
+pilot_pre_survey: "https://forms.gle/YmaQZiYMvWViQFF66"
 #
 # For a lesson pilot, uncomment the line below and add the URL of your post-workshop survey
-pilot_post_survey: "https://forms.gle/wgXENUwMGEPg1m1K6"
+pilot_post_survey: "https://docs.google.com/forms/d/e/1FAIpQLSeKnKl00a3no4IR4QGQm4e8BmC7Kw1FIJilzH6yMQjs8bINxw/viewform?vc=0&c=0&w=1&flr=0"
 #
 #------------------------------------------------------------
 
