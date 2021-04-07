@@ -4,59 +4,9 @@
 
 This repository is for the demo session of the workshop delivered as part of the Lesson Development Group for scRNA-seq analysis. It took place on 7, April 2021 at 6:00pm UTC by Batool Almarzouq and ElnazAmanzadeh.  
 
-If you run into problems,
-or have ideas about how to make this process simpler,
-please [get in touch](#getting-and-giving-help).
-The pages on [customizing your website][customization],
-the [FAQ][faq],
-and the [design notes][design] have more detail on what we do and why.
-And please note:
-if you are teaching Git,
-please [create a separate repository](#setting-up-a-separate-repository-for-learners)
-for your learners to practice in.
-
-## Video Tutorial
-
-There is a [YouTube video](https://www.youtube.com/watch?v=_Ag1JiZzyUQ) that demonstrates how to
+tps://www.youtube.com/watch?v=_Ag1JiZzyUQ) that demonstrates how to
 create a workshop website.
 
-## Creating a Repository
-
-1.  Log in to GitHub.
-    (If you do not have an account, you can quickly create one for free.)
-    You must be logged in for the remaining steps to work.
-
-2.  On this page (<https://github.com/carpentries/workshop-template>),
-    click on the green "Use this template" button (top right)
-
-    ![screenshot of this repository's GitHub page with an arrow pointing to the the 'use this template' button on the top left](fig/select-github-use-template.png?raw=true)
-
-3.  Select the owner for your new repository.
-    (This will probably be you, but may instead be an organization you belong to.)
-
-4.  Choose a name for your workshop website repository.
-    This name should have the form `YYYY-MM-DD-site`,
-    e.g., `2016-12-01-oomza`,
-    where `YYYY-MM-DD` is the start date of the workshop.
-    If your workshop is held online, then the respository name should have `-online` in the end.
-    e.g., `2016-12-01-oomza-online`
-
-5.  Make sure the repository is public, leave "Include all branches" unchecked, and click
-on "Create repository from template".
-You will be redirected to your new copy of the workshop template respository.
-
-6. Your new website will be rendered at `https://your_username.github.io/YYYY-MM-DD-site`.
-For example, if your username is `gvwilson`, the website's URL will be
-`https://gvwilson.github.io/2016-12-01-oomza`.
-
-If you experience a problem, please [get in touch](#getting-and-giving-help).
-
-## Customizing Your Website (Required Steps)
-
-There are two ways of customizing your website. You can either:
-
-- edit the files directly in GitHub using your web browser
-- clone the repository on your computer and update the files locally
 
 ### Updating the files on GitHub in your web browser
 
