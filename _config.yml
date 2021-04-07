@@ -31,7 +31,7 @@ carpentry: "dc"
 # dc-geospatial: for Data Carpentry Geospatial
 # swc-inflammation: for Software Carpentry based on the inflammation dataset
 # swc-gapminder: for Software Carpentry based on the Gapminder dataset
-curriculum: "FIXME"
+curriculum: "dc-genomics"
 
 # If there is both an R and python official version of a curriculum
 # (as listed on https://software-carpentry.org/lessons/ and
@@ -47,19 +47,19 @@ flavor: "R"
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Single Cell RNA-seq Analysis"
+title: "Introduction to Single Cell RNA-seq Analysis"
 
 #------------------------------------------------------------
 # Pilot workshop settings (only relevant for lesson pilots).
 #
 # For a lesson pilot, uncomment the line below and add the URL of the lesson site.
-# pilot_lesson_site: "put the URL of the lesson being piloted here"
+pilot_lesson_site: "https://carpentries-incubator.github.io/scrna-seq-analysis/"
 #
 # For a lesson pilot, uncomment the line below and add the URL of your pre-workshop survey
-# pilot_pre_survey: "put the URL of your pre-workshop survey here"
+pilot_pre_survey: "put the URL of your pre-workshop survey here"
 #
 # For a lesson pilot, uncomment the line below and add the URL of your post-workshop survey
-# pilot_post_survey: "put the URL of your post-workshop survey here"
+pilot_post_survey: "put the URL of your post-workshop survey here"
 #
 #------------------------------------------------------------
 
