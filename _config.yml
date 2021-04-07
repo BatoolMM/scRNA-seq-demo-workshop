@@ -31,7 +31,7 @@ carpentry: "pilot"
 # dc-geospatial: for Data Carpentry Geospatial
 # swc-inflammation: for Software Carpentry based on the inflammation dataset
 # swc-gapminder: for Software Carpentry based on the Gapminder dataset
-curriculum: ""
+curriculum: "dc-genomics"
 
 # If there is both an R and python official version of a curriculum
 # (as listed on https://software-carpentry.org/lessons/ and
@@ -59,7 +59,7 @@ pilot_lesson_site: "https://carpentries-incubator.github.io/scrna-seq-analysis/"
 pilot_pre_survey: "put the URL of your pre-workshop survey here"
 #
 # For a lesson pilot, uncomment the line below and add the URL of your post-workshop survey
-pilot_post_survey: "put the URL of your post-workshop survey here"
+pilot_post_survey: "https://forms.gle/wgXENUwMGEPg1m1K6"
 #
 #------------------------------------------------------------
 
