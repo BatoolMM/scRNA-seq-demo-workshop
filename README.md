@@ -1,23 +1,8 @@
 [![Build Status](https://travis-ci.com/carpentries/workshop-template.svg?branch=gh-pages)](https://travis-ci.com/carpentries/workshop-template)
 
-# The Carpentries Workshop Template
+# scRNA-seq Carpentries Workshop - demo
 
-This repository is The Carpentries' ([Software Carpentry][swc-site], [Data Carpentry][dc-site], and
-[Library Carpentry][lc-site]'s) template for creating websites for workshops.
-
-1. **Please _do not fork this repository directly on GitHub._** Instead, please use GitHub's
-   "template" function following [the instructions below](#creating-a-repository) to copy this
-   `workshop-template` repository and customize it for your workshop.
-
-2. Please *do your work in your repository's `gh-pages` branch*, since that is what is
-   [automatically published as a website by GitHub][github-project-pages].
-
-3. Once you are done, please also [let us know][email] the workshop URL. If this is a self-organised
-   workshop, you should also [fill in the self-organized workshop
-   form][self-organized-workshop-form] (if you have not already done so), so we can keep track of
-   all workshops. We build the list of workshops on our websites from the data included in your
-   `index.md` page. We can only do that if you [customize][customization] that page correctly *and*
-   let us know the workshop URL.
+This repository is for the demo session of the workshop delivered as part of the Lesson Development Group for scRNA-seq analysis. It took place on 7, April 2021 at 6:00pm UTC by Batool Almarzouq and ElnazAmanzadeh.  
 
 If you run into problems,
 or have ideas about how to make this process simpler,
