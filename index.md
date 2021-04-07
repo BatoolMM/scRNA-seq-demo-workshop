@@ -376,8 +376,8 @@ please preview your site before committing, and make sure to run
   Library Carpentry
   {% endif %}
   workshop,
-  you will need access to software as described below.
-  In addition, you will need an up-to-date web browser.
+  This lesson assumes you have R and RStudio installed on your computer. The latest version of R can be downloaded [here](https://cran.r-project.org/mirrors.html). RStudio is an   application (an integrated development environment or IDE) that facilitates the use of R and offers a number of nice additional features. It can be downloaded [here](https://www.rstudio.com/products/rstudio/download/). You will need the free Desktop version for your computer.
+
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
