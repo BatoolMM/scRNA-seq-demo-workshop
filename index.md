@@ -412,6 +412,6 @@ during the workshop.
 {% include lc/setup.html %}
 {% elsif site.carpentry == "pilot" %}
 Please check the "Setup" page of
-[the lesson site]({{ pilot_lesson_site }}) for instructions to follow
+[the lesson site](https://carpentries-incubator.github.io/scrna-seq-analysis/setup.html) for instructions to follow
 to obtain the software and data you will need to follow the lesson.
 {% endif %}
