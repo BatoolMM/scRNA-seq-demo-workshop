@@ -368,7 +368,7 @@ please preview your site before committing, and make sure to run
 
 <p>
   To participate in a
-  {% if site.carpentry == "pilot" %}
+  {% if site.carpentry == "swc" %}
   Software Carpentry
   {% elsif site.carpentry == "dc" %}
   Data Carpentry
@@ -376,7 +376,7 @@ please preview your site before committing, and make sure to run
   Library Carpentry
   {% endif %}
   workshop,
-  This lesson assumes you have R and RStudio installed on your computer. The latest version of R can be downloaded [here](https://cran.r-project.org/mirrors.html). RStudio is an   application (an integrated development environment or IDE) that facilitates the use of R and offers a number of nice additional features. It can be downloaded [here](https://www.rstudio.com/products/rstudio/download/). You will need the free Desktop version for your computer.
+  This lesson assumes you have R and RStudio installed on your computer. The latest version of R can be downloaded [here](https://cran.rproject.org/mirrors.html). RStudio is an application (an integrated development environment or IDE) that facilitates the use of R and offers a number of nice additional features. It can be downloaded [here](https://www.rstudio.com/products/rstudio/download/). You will need the free Desktop version for your computer.
 
 </p>
 <p>
@@ -412,6 +412,6 @@ during the workshop.
 {% include lc/setup.html %}
 {% elsif site.carpentry == "pilot" %}
 Please check the "Setup" page of
-[the lesson site]({{ site.lesson_site }}) for instructions to follow
+[the lesson site]({{ pilot_lesson_site }}) for instructions to follow
 to obtain the software and data you will need to follow the lesson.
 {% endif %}
